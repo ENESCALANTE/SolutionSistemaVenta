@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\user\\source\\repos\\solutionsistemaventa\\sistemaventa.aplicacionweb\\views\\venta\\historialventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\venta\\historialventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\user\\source\\repos\\solutionsistemaventa\\sistemaventa.aplicacionweb\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\user\\source\\repos\\solutionsistemaventa\\sistemaventa.aplicacionweb\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\user\\source\\repos\\solutionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\user\\source\\repos\\solutionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC4DA9E-3305-479A-B642-7393465ACB3B}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistorialVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T18:37:19.386Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T18:58:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T18:46:19.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:45:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SolutionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:02:53.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
